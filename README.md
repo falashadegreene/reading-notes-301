@@ -1,3 +1,11 @@
-# reading-notes-301
+# **Reading-Notes-301**
 
-## Code 301 - Intermediate Software Development
+## *Code 301 - Intermediate Software Development*
+
+- [ ] Reading assignment one
+
+
+- Link to my Github site [GitHub Pages](https://pages.github.com/).
+
+
+
