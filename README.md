@@ -5,7 +5,7 @@
 - [ ] Reading assignment one
 
 
-- Link to my Github site [GitHub Pages](https://pages.github.com/).
+- Link to my Github site [Falashade GitHub Page](https://github.com/falashadegreene).
 
 
 
