@@ -2,7 +2,7 @@
 
 ## *Code 301 - Intermediate Software Development*
 
-- [ ]   Reading assignment one
+- [X] *[class-01](https://github.com/falashadegreene/reading-notes-301/class01.md)*
 
 
 - Link to my Github site [Falashade GitHub Page](https://github.com/falashadegreene).
