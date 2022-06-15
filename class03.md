@@ -28,4 +28,9 @@
 
    let helloWorld = {...hello,...world}
    console.log(helloWorld) {hello: "xxxx", world: "yyyy"}`
+## How to pass functions between component
 
+1. In the video, what is the first step that the developer does to pass functions between components?
+2. In your own words, what does the increment function do? it determines the next or increased level by one.
+3. How can you pass a method from a parent component into a child component? by defining the function, function is passed as a prop to child component, next child component then calls the prop.
+4. How does the child component invoke a method that was passed to it from a parent component? pass down functionality to children in props and pass back notifications from children in events. 
