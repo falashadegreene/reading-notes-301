@@ -12,7 +12,5 @@
 
 2. Rewrite the following statement using a tenary statement.
 
-` let value = true;
-  let otherValue = false;
-
-  
+`x === y ? true: false; console.log(false)
+ x === y ? false: true; console.log (true)`
