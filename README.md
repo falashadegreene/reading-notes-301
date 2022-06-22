@@ -15,6 +15,8 @@
 
 - [X] *[class-07](https://github.com/falashadegreene/reading-notes-301/class07.md)*
 
+- [X] *[class-08](https://github.com/falashadegreene/reading-notes-301/class08.md)*
+
 
 
 - Link to my Github site [Falashade GitHub Page](https://github.com/falashadegreene).
