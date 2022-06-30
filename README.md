@@ -27,4 +27,6 @@
 
 - [X] *[class-13](https://github.com/falashadegreene/reading-notes-301/class13.md)*
 
+- [X] *[class-14](https://github.com/falashadegreene/reading-notes-301/class14.md)*
+
 - Link to my Github site [Falashade GitHub Page](https://github.com/falashadegreene).
